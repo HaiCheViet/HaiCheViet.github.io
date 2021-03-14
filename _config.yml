@@ -23,21 +23,19 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
     forks: false
     projects:
     - svm-vgg16
     - HaiCheViet.github.io
-
 social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+  # instagram: yo_username
+  # hackerrank: yourur_username
   LeetCode: che_viet/
-  linkedin: che-viet-hai-b9449711b/
-  CV: file/d/1wwBl2ndD-AXd5Oe7-X8yPuTABKowmTTr/view
+  linkedin: hai-che/
+  CV: file/d/1vIxM59cCpiwxQDD5Vl_rOVAcP_p3M8KE/view
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -57,6 +55,6 @@ topics:
     web_url: https://www.tensorflow.org/
     image_url: https://www.tensorflow.org/images/tf_logo_transp.png
 
-  - name: Code quality
-    web_url: https://github.com/topics/code-quality
-    image_url: https://cdn-images-1.medium.com/fit/t/1600/480/1*RxTM94cmEWQo5LwcClll2w.jpeg
+  - name: AWS
+    web_url: https://github.com/topics/aws
+    image_url: https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2017/11/16/event_driven_sns_compute_slide01.png
